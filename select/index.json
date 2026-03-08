@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Midnight City",
+  "base_artist": "M83",
+  "createdAt": "2026-03-08T17:23:05.758877Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight City",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/01_Midnight_City_M83.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight City (Big Black Delta Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/02_Midnight_City_(Big_Black_Delta_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight City (Big Black Delta Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/03_Midnight_City_(Big_Black_Delta_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Midnight City - Man Without Country Remix",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/04_Midnight_City_-_Man_Without_Country_Remix_M83.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Midnight City (Man Without Country Remix)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/05_Midnight_City_(Man_Without_Country_Remix)_M83.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Midnight City (Team Ghost Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/06_Midnight_City_(Team_Ghost_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Midnight City (Team Ghost Remix)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/07_Midnight_City_(Team_Ghost_Remix)_M83.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Midnight City (Trentemoller Remix)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/08_Midnight_City_(Trentemoller_Remix)_M83.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Midnight City (Trentemøller Remix)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/09_Midnight_City_(Trentemøller_Remix)_M83.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Midnight City (Man Without Country Remix)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/10_Midnight_City_(Man_Without_Country_Remix)_M83.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Midnight City",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/11_Midnight_City_M83.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Midnight City - Eric Prydz Private Remix",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/12_Midnight_City_-_Eric_Prydz_Private_Remix_M83.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Midnight City Sky",
+      "artist": "Home Grown",
+      "has_synced": false,
+      "path": "select/13_Midnight_City_Sky_Home_Grown.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Midnight City",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/14_Midnight_City_M83.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Midnight City",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/15_Midnight_City_M83.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight City",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_City_M83.txt"
+    }
+  ]
+}
